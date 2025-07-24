@@ -70,7 +70,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 ### Connect with me
 
 <p align="left">
-  <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
+   <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
   <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a>
 </p>
