@@ -1,12 +1,10 @@
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=fe428e&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=4493F8&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="40px" align="middle">
-  <a href="https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4493F8&width=200&lines=About+Me" alt="About me Typing SVG" align="middle"></a>
-</p>
+
+# [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
 
 <div>
 I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Information Systems at UFAM (ICET/Itacoatiara-AM), as well as a certified technician in Computer Maintenance and Support from IFAM. I have experience in data analysis and digital process transformation, and my main focus is on <strong>Data Science</strong> and <strong>Artificial Intelligence</strong>, especially <strong>Deep Learning</strong> and <strong>algorithmic fairness</strong>. I've worked on projects in this area, including a study on bias in gender and race classification. I also have experience with <strong>Testing</strong>, <strong>QA</strong>, <strong>Front-end development</strong>, and <strong>UI/UX design</strong>, and I'm deeply interested in <strong>Robotics</strong> and <strong>Linux</strong>. I'm driven by challenges and constantly seeking academic and professional growth, aiming to pursue a master's and PhD abroad.
@@ -39,10 +37,10 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=radical&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="51%">
+  <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=catppuccin_mocha&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="51%">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
 </div>
 
 ---
