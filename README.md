@@ -9,9 +9,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=midnight-purple&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="48%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=midnight-purple&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="51%">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
 </div>
 
 ## 💻 Tecnologias e Ferramentas
