@@ -77,3 +77,5 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 
 <br>
 <div align="right">Created by <a href="https://github.com/gregoryozaki">Gregory Ozaki</a>.</div>
+
+---
