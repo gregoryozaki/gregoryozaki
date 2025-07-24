@@ -5,6 +5,11 @@
 
 
 # [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
+<div>
+I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Information Systems at UFAM (ICET/Itacoatiara-AM), as well as a certified technician in Computer Maintenance and Support from IFAM. I have experience in data analysis and digital process transformation, and my main focus is on <strong>Data Science</strong> and <strong>Artificial Intelligence</strong>, especially <strong>Deep Learning</strong> and <strong>algorithmic fairness</strong>. I've worked on projects in this area, including a study on bias in gender and race classification. I also have experience with <strong>Testing</strong>, <strong>QA</strong>, <strong>Front-end development</strong>, and <strong>UI/UX design</strong>, and I'm deeply interested in <strong>Robotics</strong> and <strong>Linux</strong>. I'm driven by challenges and constantly seeking academic and professional growth, aiming to pursue a master's and PhD abroad.
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
