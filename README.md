@@ -62,7 +62,7 @@
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
