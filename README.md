@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="50px" align="middle"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=E22CF7&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
+  <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="50px" align="middle"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=fe428e&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
 </p>
 
 
@@ -12,10 +12,10 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=midnight-purple&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="51%">
+  <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=radical&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="51%">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
 </div>
 
 ---
