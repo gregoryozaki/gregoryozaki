@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
 </div>
 
-## 💻 Tecnologias e Ferramentas
+## Technologies & Tools
 
 ### Linguagens
 <div>
