@@ -15,7 +15,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 <table border="0">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="150px">
+      <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/swinspino.gif" width="150px">
     </td>
     <td>
       <ul>
