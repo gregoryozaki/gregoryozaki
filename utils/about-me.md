@@ -1,17 +1,3 @@
-# 👋 Sobre Mim
-
-<div>
-Olá! Me chamo <strong>Gregory Ozaki</strong>, tenho 20 anos e sou aluno do curso de Sistema de Informação na Universidade Federal do Amazonas (UFAM), mais especificamente no Instituto de Ciências Exatas e Tecnologia (ICET), aqui em Itacoatiara-AM, onde resido.
-<br><br>
-Sou também formado como <strong>Técnico em Manutenção e Suporte em Informática</strong> pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM) - Campus Itacoatiara (CITA), e possuo experiência como Jovem Aprendiz na Mil Madeiras Preciosas Ltda., onde atuei com análise de dados e transformação digital de processos administrativos.
-<br><br>
-Minha paixão e foco de estudo e trabalho estão na <strong>Ciência de Dados</strong> e, principalmente, na <strong>Inteligência Artificial (IA)</strong>, com ênfase em <strong>Deep Learning</strong>. Tenho experiência com projetos nessa área, realizando trabalhos e caminhando para a escrita de artigos. Um exemplo é o meu estudo "<a href="https://github.com/gregoryozaki/exploring-bias-in-deep-learning-gender-and-race-classification-with-balanced-and-biased-datasets.git">Investigando o viés em Deep Learning para classificação de gênero e raça: um estudo comparativo com ConvNeXt em datasets balanceados e enviesados</a>", onde busco promover a <strong>justiça algorítmica</strong> e a equidade na IA. Como cito no artigo: <i>"A eficácia da Inteligência Artificial está diretamente ligada ao compromisso com a equidade. Dados justos e representativos são a base para tecnologias que servem a toda a sociedade, e não apenas a uma parcela dela."</i>
-<br><br>
-Além disso, possuo experiência em <strong>Testes e QA</strong>, e desenvolvo minhas habilidades nessa área através de cursos. No contexto de projetos e trabalhos acadêmicos, frequentemente fui responsável pela parte de <strong>Front-end</strong> e <strong>UI/UX Design</strong>, o que me proporcionou valiosas vivências nessas áreas. Tenho grande interesse em <strong>Robótica</strong> (especialmente com IA) e curiosidade em aprender <strong>Bash</strong> e configurações Linux.
-<br><br>
-Sou motivado por todos esses desafios, buscando constantemente contribuir com inovações tecnológicas e pesquisas que beneficiem toda a sociedade. <strong>Sou uma pessoa que abraça desafios e não busca a facilidade, pois é na complexidade que minha curiosidade e aprendizado são mais estimulados.</strong> Meu objetivo é trazer mais peso ao meu currículo, crescer profissional e academicamente (inclusive com mais artigos e pesquisas em IA), e me desenvolver em estágios, aprimorando minhas soft skills como comunicação e interação social, visando um futuro mestrado e doutorado no exterior.
-</div>
-
 ---
 
 # 👋 About Me
@@ -29,3 +15,16 @@ I am motivated by all these challenges, constantly seeking to contribute with te
 </div>
 
 ---
+# 👋 Sobre Mim
+
+<div>
+Olá! Me chamo <strong>Gregory Ozaki</strong>, tenho 20 anos e sou aluno do curso de Sistema de Informação na Universidade Federal do Amazonas (UFAM), mais especificamente no Instituto de Ciências Exatas e Tecnologia (ICET), aqui em Itacoatiara-AM, onde resido.
+<br><br>
+Sou também formado como <strong>Técnico em Manutenção e Suporte em Informática</strong> pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM) - Campus Itacoatiara (CITA), e possuo experiência como Jovem Aprendiz na Mil Madeiras Preciosas Ltda., onde atuei com análise de dados e transformação digital de processos administrativos.
+<br><br>
+Minha paixão e foco de estudo e trabalho estão na <strong>Ciência de Dados</strong> e, principalmente, na <strong>Inteligência Artificial (IA)</strong>, com ênfase em <strong>Deep Learning</strong>. Tenho experiência com projetos nessa área, realizando trabalhos e caminhando para a escrita de artigos. Um exemplo é o meu estudo "<a href="https://github.com/gregoryozaki/exploring-bias-in-deep-learning-gender-and-race-classification-with-balanced-and-biased-datasets.git">Investigando o viés em Deep Learning para classificação de gênero e raça: um estudo comparativo com ConvNeXt em datasets balanceados e enviesados</a>", onde busco promover a <strong>justiça algorítmica</strong> e a equidade na IA. Como cito no artigo: <i>"A eficácia da Inteligência Artificial está diretamente ligada ao compromisso com a equidade. Dados justos e representativos são a base para tecnologias que servem a toda a sociedade, e não apenas a uma parcela dela."</i>
+<br><br>
+Além disso, possuo experiência em <strong>Testes e QA</strong>, e desenvolvo minhas habilidades nessa área através de cursos. No contexto de projetos e trabalhos acadêmicos, frequentemente fui responsável pela parte de <strong>Front-end</strong> e <strong>UI/UX Design</strong>, o que me proporcionou valiosas vivências nessas áreas. Tenho grande interesse em <strong>Robótica</strong> (especialmente com IA) e curiosidade em aprender <strong>Bash</strong> e configurações Linux.
+<br><br>
+Sou motivado por todos esses desafios, buscando constantemente contribuir com inovações tecnológicas e pesquisas que beneficiem toda a sociedade. <strong>Sou uma pessoa que abraça desafios e não busca a facilidade, pois é na complexidade que minha curiosidade e aprendizado são mais estimulados.</strong> Meu objetivo é trazer mais peso ao meu currículo, crescer profissional e academicamente (inclusive com mais artigos e pesquisas em IA), e me desenvolver em estágios, aprimorando minhas soft skills como comunicação e interação social, visando um futuro mestrado e doutorado no exterior.
+</div>
