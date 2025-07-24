@@ -16,7 +16,6 @@ Sou motivado por todos esses desafios, buscando constantemente contribuir com in
 </div>
 
 ---
-
 ### 👋 About Me
 
 <div>
