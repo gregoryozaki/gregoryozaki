@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allows manual trigger
 
+permissions: # <-- Adicione esta seção
+  contents: write # <-- E esta linha para permitir escrita
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,7 +19,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env: # <--- ESTE 'env' pertence ao Platane/snk
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
@@ -24,5 +27,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env: # <--- ESTE 'env' pertence ao crazy-max/ghaction-github-pages
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
