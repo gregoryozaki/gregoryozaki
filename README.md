@@ -10,7 +10,9 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 
 ---
 
-## 🌱 Aprendendo coisas novas
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&width=500&lines=Learning+new+things...." alt="Typing SVG">
+</p>
 
 <table border="0">
   <tr>
