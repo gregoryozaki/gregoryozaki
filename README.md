@@ -4,7 +4,7 @@
 </p>
 
 ---
-### 👋 Sobre Mim
+# 👋 Sobre Mim
 
 <div>
 Olá! Me chamo <strong>Gregory Ozaki</strong>, tenho 20 anos e sou aluno do curso de Sistema de Informação na Universidade Federal do Amazonas (UFAM), mais especificamente no Instituto de Ciências Exatas e Tecnologia (ICET), aqui em Itacoatiara-AM, onde resido.
@@ -17,7 +17,7 @@ Sou motivado por todos esses desafios, buscando constantemente contribuir com in
 </div>
 
 ---
-### 👋 About Me
+# 👋 About Me
 
 <div>
 Hi! My name is <strong>Gregory Ozaki</strong>, I'm 20 years old and I'm a Systems Information student at the Federal University of Amazonas (UFAM), more specifically at the Institute of Exact Sciences and Technology (ICET), here in Itacoatiara-AM, where I live.
