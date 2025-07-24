@@ -11,7 +11,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&width=500&lines=Learning+new+things...." alt="Typing SVG">
+  <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="50px" align="middle"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=fe428e&width=300&lines=Learning+new+things...." alt="Typing SVG" align="middle">
 </p>
 
 <table border="0">
