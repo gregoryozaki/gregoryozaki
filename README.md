@@ -4,7 +4,7 @@
 </p>
 
 ---
-### [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
+# [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
@@ -13,7 +13,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
 </div>
 
-## Technologies & Tools
+---
+
+# Technologies & Tools
 
 ### Linguagens
 <div>
@@ -40,7 +42,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 
-## 🐍 Minhas Contribuições no GitHub
+---
 
 <picture>
   <source
@@ -58,7 +60,9 @@
   />
 </picture>
 
-## 🤝 Conecte-se comigo
+---
+
+## Connect With Me
 
 <p align="left">
   <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
@@ -67,4 +71,4 @@
 </p>
 
 <br>
-<div align="right">Feito por <a href="https://github.com/gregoryozaki">Gregory Ozaki</a>.</div>
+<div align="right">Created by <a href="https://github.com/gregoryozaki">Gregory Ozaki</a>.</div>
