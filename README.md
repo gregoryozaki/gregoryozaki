@@ -71,3 +71,26 @@ I am motivated by all these challenges, constantly seeking to contribute with te
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="90%">
 </div>
+
+## 🐍 Minhas Contribuições no GitHub
+
+<div align="center">
+  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/output/github-contribution-grid-snake.svg" alt="github-snake">
+</div>
+
+## 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="mailto:gabrielgregory38@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/gregory-ozaki">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/seu.instagram/">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF" alt="Instagram">
+  </a>
+</p>
+
+<br>
+<div align="right">Feito por <a href="https://github.com/gregoryozaki">Gregory Ozaki</a>.</div>
