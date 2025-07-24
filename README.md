@@ -1,11 +1,10 @@
-
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="50px" align="middle"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=E22CF7&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
 </p>
 
 ---
-
-## [👋 About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
+### [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
