@@ -3,11 +3,31 @@
   <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="50px" align="middle"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=fe428e&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
 </p>
 
-
 # [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
 <div>
 I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Information Systems at UFAM (ICET/Itacoatiara-AM), as well as a certified technician in Computer Maintenance and Support from IFAM. I have experience in data analysis and digital process transformation, and my main focus is on <strong>Data Science</strong> and <strong>Artificial Intelligence</strong>, especially <strong>Deep Learning</strong> and <strong>algorithmic fairness</strong>. I've worked on projects in this area, including a study on bias in gender and race classification. I also have experience with <strong>Testing</strong>, <strong>QA</strong>, <strong>Front-end development</strong>, and <strong>UI/UX design</strong>, and I'm deeply interested in <strong>Robotics</strong> and <strong>Linux</strong>. I'm driven by challenges and constantly seeking academic and professional growth, aiming to pursue a master's and PhD abroad.
 </div>
+
+---
+
+## 🌱 Aprendendo coisas novas
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/main/utils/emoji_hello.gif" width="150px">
+    </td>
+    <td>
+      <ul>
+        <li>Novas funcionalidades do PyTorch</li>
+        <li>Conceitos avançados de Ciência de Dados</li>
+        <li>Arquiteturas Transformer</li>
+        <li>Testes de integração e E2E</li>
+        <li>Melhores práticas de UI/UX</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
