@@ -43,22 +43,28 @@
 
 ## 🐍 Minhas Contribuições no GitHub
 
-<div align="center">
-  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/output/github-contribution-grid-snake.svg" alt="github-snake">
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gregoryozaki/gregoryozaki/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 ## 🤝 Conecte-se comigo
 
 <p align="left">
-  <a href="mailto:gabrielgregory38@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/gregory-ozaki">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/seu.instagram/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF" alt="Instagram">
-  </a>
+  <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a>
 </p>
 
 <br>
