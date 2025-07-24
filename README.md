@@ -12,7 +12,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 
 <p align="left">
   <img src="https://github.com/gregoryozaki/gregoryozaki/blob/a38f8f6063f752ef80f1ea695756a75a0c763dbe/utils/quebraabe%C3%A7a.gif" width="40px" align="middle" style="margin-right: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=fe428e&width=300&lines=Learning+new+things...." alt="Typing SVG" align="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=4493F8&width=300&lines=Learning+new+things...." alt="Typing SVG" align="middle">
 </p>
 
 <table border="0">
@@ -42,8 +42,10 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 </div>
 
 ---
-
-## Technologies & Tools
+<p align="left">
+  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/a38f8f6063f752ef80f1ea695756a75a0c763dbe/utils/quebraabe%C3%A7a.gif" width="40px" align="middle" style="margin-right: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=4493F8&width=300&lines=Technologies+and+tools" alt="Typing SVG" align="middle">
+</p>
 
 ### Languages
 <div>
