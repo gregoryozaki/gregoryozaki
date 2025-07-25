@@ -56,10 +56,10 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
       <td valign="top" width="50%">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Languages" alt="Typing SVG" /></a>
         <div align="left">
-          <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
           <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+          <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -74,7 +74,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
           <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-          <img src="https://img.shields.io/badge/Machine%20Learning-FF5722?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning">
+          <img src="https://img.shields.io/badge/ML-FF5722?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning">
           <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
           <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -99,7 +99,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Methodologies+and+Design" alt="Typing SVG" /></a>
         <div align="left">
           <img src="https://img.shields.io/badge/Scrum-007bff?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
-          <img src="https://img.shields.io/badge/Kanban-276DC3?style=for-the-badge&logo=trello&logoColor=white">
           <img src="https://img.shields.io/badge/Design%20Thinking-ff4081?style=for-the-badge&logo=target&logoColor=white">
           <img src="https://img.shields.io/badge/requirements%20Analysis-3498DB?style=for-the-badge" alt="Requirements Analysis">
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
@@ -107,7 +106,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
           <img src="https://img.shields.io/badge/Nielsen's%20Heuristics-9B59B6?style=for-the-badge" alt="Nielsen's Heuristics">
           <img src="https://img.shields.io/badge/Prototyping-FFCD2A?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
-          <img src="https://img.shields.io/badge/Usability%20Inspections-1ABC9C?style=for-the-badge" alt="Usability Inspections">
+          <img src="https://img.shields.io/badge/Inspections-1ABC9C?style=for-the-badge" alt="Inspections">
           <img src="https://img.shields.io/badge/Usability%20Testing-FF7300?style=for-the-badge&logo=usabilityhub&logoColor=white" alt="Usability Testing">
           <img src="https://img.shields.io/badge/MAC-6272A4?style=for-the-badge" alt="MAC (Communicability)">
         </div>
