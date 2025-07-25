@@ -23,11 +23,14 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
     </td>
     <td>
       <ul>
-        <li>Novas funcionalidades do PyTorch</li>
-        <li>Conceitos avançados de Ciência de Dados</li>
-        <li>Arquiteturas Transformer</li>
-        <li>Testes de integração e E2E</li>
-        <li>Melhores práticas de UI/UX</li>
+        <li>Pandas and PyTorch</li>
+        <li>Software Testing and QA (Quality Assurance)</li>
+        <li>Artificial Intelligence and Machine Learning, with a focus on Deep Learning</li>
+        <li>Best Practices, Strategies, and Methods for UI/UX</li>
+        <li>Web Development and Programming</li>
+        <li>IT Governance</li>
+        <i>Probability and Statistics</li>
+        <li>Mobile Computing Programming</li>
       </ul>
     </td>
   </tr>
@@ -135,6 +138,17 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 ---
 
 
+<p align="left">
+  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/0291d61b4197244ab9c0b891cacdb71e7cb68d43/utils/gifs/loading-circle.gif" width="40px" align="middle" style="margin-right: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Connect+with+me" alt="Typing SVG" align="middle">
+</p>
+
+<p align="left">
+   <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=c19eeb" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c19eeb" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=c19eeb" alt="Instagram"></a>
+</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -150,20 +164,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
     width="100%"
   />
 </picture>
-
----
-
-<p align="left">
-  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/0291d61b4197244ab9c0b891cacdb71e7cb68d43/utils/gifs/loading-circle.gif" width="40px" align="middle" style="margin-right: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Connect+with+me" alt="Typing SVG" align="middle">
-</p>
-
-<p align="left">
-   <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a>
-</p>
-
 
 <br>
 <div align="right">Created by <a href="https://github.com/gregoryozaki">coeozak</a>.</div>
