@@ -23,14 +23,12 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
     </td>
     <td>
       <ul>
-        <li>Pandas and PyTorch</li>
         <li>Software Testing and QA (Quality Assurance)</li>
         <li>Artificial Intelligence and Machine Learning, with a focus on Deep Learning</li>
-        <li>Best Practices, Strategies, and Methods for UI/UX</li>
         <li>Web Development and Programming</li>
-        <li>IT Governance</li>
-        <i>Probability and Statistics</li>
+        <li>Probability and Statistics</li>
         <li>Mobile Computing Programming</li>
+        <li>Best Practices, Strategies, and Methods for UI/UX</li>
       </ul>
     </td>
   </tr>
