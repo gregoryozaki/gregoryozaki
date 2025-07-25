@@ -1,3 +1,4 @@
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
@@ -169,6 +170,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 
 <br>
 <br>
-
+<br>
 <div align="right">Created by <a href="https://github.com/gregoryozaki">coeozak</a>.</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19eeb&height=120&section=footer"/>
