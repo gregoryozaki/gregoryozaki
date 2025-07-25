@@ -103,13 +103,13 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Design%20Thinking-ff4081?style=for-the-badge&logo=target&logoColor=white">
           <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF5722?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
-          <img src="https://img.shields.io/badge/Prototipagem-FFCD2A?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
-          <img src="https://img.shields.io/badge/IHC-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="Avaliação de Sistemas (IHC)">
+          <img src="https://img.shields.io/badge/Prototyping-FFCD2A?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
+          <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
           <img src="https://img.shields.io/badge/Usability%20Testing-FF7300?style=for-the-badge&logo=usabilityhub&logoColor=white" alt="Usability Testing">
-          <img src="https://img.shields.io/badge/MAC%20(Comunicabilidade)-6272A4?style=for-the-badge" alt="MAC (Comunicabilidade)">
-          <img src="https://img.shields.io/badge/Inspeções%20de%20Usabilidade-1ABC9C?style=for-the-badge" alt="Inspeções de Usabilidade">
-          <img src="https://img.shields.io/badge/Inspeção%20de%20Requisitos-3498DB?style=for-the-badge" alt="Inspeção de Requisitos">
-          <img src="https://img.shields.io/badge/Heurísticas%20de%20Nielsen-9B59B6?style=for-the-badge" alt="Heurísticas de Nielsen">
+          <img src="https://img.shields.io/badge/MAC%20(Communicability)-6272A4?style=for-the-badge" alt="MAC (Communicability)">
+          <img src="https://img.shields.io/badge/Usability%20Inspections-1ABC9C?style=for-the-badge" alt="Usability Inspections">
+          <img src="https://img.shields.io/badge/Requirements%20Inspection-3498DB?style=for-the-badge" alt="Requirements Inspection">
+          <img src="https://img.shields.io/badge/Nielsen's%20Heuristics-9B59B6?style=for-the-badge" alt="Nielsen's Heuristics">
         </div>
       </td>
     </tr>
