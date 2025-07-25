@@ -141,7 +141,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 
 
 <p align="left">
-  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/0291d61b4197244ab9c0b891cacdb71e7cb68d43/utils/gifs/loading-circle.gif" width="40px" align="middle" style="margin-right: 10px;">
+  <img src="https://github.com/gregoryozaki/gregoryozaki/blob/0291d61b4197244ab9c0b891cacdb71e7cb68d43/utils/gifs/loading-circle.gif" width="35px" align="middle" style="margin-right: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Connect+with+me" alt="Typing SVG" align="middle">
 </p>
 
