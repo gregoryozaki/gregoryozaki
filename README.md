@@ -19,7 +19,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/gregoryozaki/gregoryozaki/blob/301965da664501f49a6ae4895a17c0375076a840/utils/gifs/spinosaurus-dancing.gif" width="180px">
+      <img src="https://github.com/gregoryozaki/gregoryozaki/blob/301965da664501f49a6ae4895a17c0375076a840/utils/gifs/spinosaurus-dancing.gif" width="200px">
     </td>
     <td>
       <ul>
