@@ -104,8 +104,7 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
           <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF5722?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
           <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
-          <img src="https://img.shields.io/badge/Nielsen's%20Heuristics-9B59B6?style=for-the-badge" alt="Nielsen's Heuristics">
-          <img src="https://img.shields.io/badge/Prototyping-FFCD2A?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
+          <img src="https://img.shields.io/badge/Prototyping-9B59B6?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
           <img src="https://img.shields.io/badge/Inspections-1ABC9C?style=for-the-badge" alt="Inspections">
           <img src="https://img.shields.io/badge/Usability%20Testing-FF7300?style=for-the-badge&logo=usabilityhub&logoColor=white" alt="Usability Testing">
           <img src="https://img.shields.io/badge/MAC-6272A4?style=for-the-badge" alt="MAC (Communicability)">
