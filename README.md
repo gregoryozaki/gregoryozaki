@@ -88,14 +88,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Database" alt="Typing SVG" /></a>
-        <div align="left">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-        </div>
-      </td>
-      <td valign="top" width="50%">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Methodologies+and+Design" alt="Typing SVG" /></a>
         <div align="left">
           <img src="https://img.shields.io/badge/Scrum-007bff?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
@@ -110,6 +102,14 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Usability%20Inspections-1ABC9C?style=for-the-badge" alt="Usability Inspections">
           <img src="https://img.shields.io/badge/requirements%20Analysis-3498DB?style=for-the-badge" alt="Requirements Analysis">
           <img src="https://img.shields.io/badge/Nielsen's%20Heuristics-9B59B6?style=for-the-badge" alt="Nielsen's Heuristics">
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Database" alt="Typing SVG" /></a>
+        <div align="left">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
         </div>
       </td>
     </tr>
