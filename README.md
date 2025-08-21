@@ -55,7 +55,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Languages" alt="Typing SVG" /></a>
         <div align="left">
           <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
           <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
           <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -72,13 +71,11 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
           <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-          <img src="https://img.shields.io/badge/ML-FF5722?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning">
           <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
           <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
           <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
           <img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white" alt="Handlebars.js">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
           <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie">
         </div>
@@ -98,7 +95,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
         <div align="left">
           <img src="https://img.shields.io/badge/Scrum-007bff?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
           <img src="https://img.shields.io/badge/Design%20Thinking-ff4081?style=for-the-badge&logo=target&logoColor=white">
-          <img src="https://img.shields.io/badge/requirements%20Analysis-3498DB?style=for-the-badge" alt="Requirements Analysis">
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
           <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF5722?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
           <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
@@ -118,9 +114,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
           <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-          <img src="https://img.shields.io/badge/Zorin-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
-          <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
           <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
           <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white">
           <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
