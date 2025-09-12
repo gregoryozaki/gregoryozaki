@@ -28,3 +28,9 @@ Sou movido por desafios e pela curiosidade, buscando sempre contribuir com inova
   <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c19eeb" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=c19eeb" alt="Instagram"></a>
 </p>
+
+<p align="right">
+  <a href="https://github.com/gregoryozaki" target="_blank">
+    <img src="https://img.shields.io/badge/⬅%20Voltar%20para%20meu%20Perfil-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
