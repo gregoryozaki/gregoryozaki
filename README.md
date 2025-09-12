@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Welcome+to+my+Github!+" alt="Typing SVG" align="middle">
 </p>
@@ -6,7 +7,7 @@
 # [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
 
 <div>
-I’m <strong>Gregory Ozaki</strong>, 20 years old, an <strong>Information Systems</strong> student at <strong>UFAM (ICET/Itacoatiara-AM)<strong> and a <strong>Computer Maintenance and Support Technician<strong> from IFAM. Currently, I am an intern at <strong>Compass UOL<strong> in the <strong>AWS & AI for Software Quality Engineering</strong> program, combining Artificial Intelligence and Software Quality. I have experience in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>, and have published a scientific paper on algorithmic fairness. I also have background in <strong>Front-end</strong>, <strong>UI/UX Design</strong>, <strong>and QA</strong>, with strong interests in <strong>AI Robotics</strong>, <strong>Data Science</strong>, and <strong>Linux/Bash</strong>. I am driven by challenges, innovation, and the pursuit of contributing to technological solutions that positively impact society.
+I’m <strong>Gregory Ozaki</strong>, 20 years old, an <strong>Information Systems</strong> student at <strong>UFAM (ICET/Itacoatiara-AM)</strong> and a <strong>Computer Maintenance and Support Technician</strong> from IFAM. Currently, I am an intern at <strong>Compass UOL</strong> in the <strong>AWS & AI for Software Quality Engineering</strong> program, combining Artificial Intelligence and Software Quality. I have experience in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>, and have published a scientific paper on algorithmic fairness. I also have background in <strong>Front-end</strong>, <strong>UI/UX Design</strong>, <strong>and QA</strong>, with strong interests in <strong>AI Robotics</strong>, <strong>Data Science</strong>, and <strong>Linux/Bash</strong>. I am driven by challenges, innovation, and the pursuit of contributing to technological solutions that positively impact society.
 </div>
 
 ---
