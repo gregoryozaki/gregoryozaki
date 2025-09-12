@@ -69,13 +69,8 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=c19eeb&repeat=false&random=true&width=435&lines=Technologies+and+Frameworks" alt="Typing SVG" /></a>
         <div align="left">
           <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-          <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-          <img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white" alt="Handlebars.js">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
           <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie">
         </div>
@@ -96,7 +91,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Scrum-007bff?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
           <img src="https://img.shields.io/badge/Design%20Thinking-ff4081?style=for-the-badge&logo=target&logoColor=white">
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
-          <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF5722?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
           <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
           <img src="https://img.shields.io/badge/Prototyping-9B59B6?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
           <img src="https://img.shields.io/badge/Inspections-1ABC9C?style=for-the-badge" alt="Inspections">
