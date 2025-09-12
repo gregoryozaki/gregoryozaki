@@ -17,3 +17,14 @@ Minha principal paixão e foco de estudo estão em <strong>Machine Learning</str
 <br><br>
 Sou movido por desafios e pela curiosidade, buscando sempre contribuir com inovações tecnológicas e pesquisas que beneficiem a sociedade. Meus objetivos são fortalecer meu currículo, crescer profissional e academicamente (com novos artigos e projetos em IA), aprimorar minhas soft skills em estágios e, futuramente, ingressar em um mestrado e doutorado no exterior.
 </div>
+
+<br>
+
+---
+### 🌐 Connect With Me
+<br>
+<p align="left">
+   <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=c19eeb" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c19eeb" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=c19eeb" alt="Instagram"></a>
+</p>
