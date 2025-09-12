@@ -62,7 +62,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
           <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
         </div>
       </td>
       <td valign="top" width="50%">
@@ -92,7 +91,6 @@ I'm <strong>Gregory Ozaki</strong>, 20 years old, and currently a student of Inf
           <img src="https://img.shields.io/badge/Design%20Thinking-ff4081?style=for-the-badge&logo=target&logoColor=white">
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
           <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
-          <img src="https://img.shields.io/badge/Prototyping-9B59B6?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Prototyping">
           <img src="https://img.shields.io/badge/Inspections-1ABC9C?style=for-the-badge" alt="Inspections">
           <img src="https://img.shields.io/badge/Usability%20Testing-FF7300?style=for-the-badge&logo=usabilityhub&logoColor=white" alt="Usability Testing">
           <img src="https://img.shields.io/badge/MAC-6272A4?style=for-the-badge" alt="MAC (Communicability)">
