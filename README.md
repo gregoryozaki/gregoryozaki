@@ -14,7 +14,7 @@ I’m <strong>Gregory Ozaki</strong>, 20 years old, an <strong>Information Syste
 
 <p align="left">
   <img src="https://github.com/gregoryozaki/gregoryozaki/blob/15f79a96922e051cf22f433f8662803e206bcd44/utils/gifs/jigsaw-puzzle.gif" width="40px" align="middle" style="margin-right: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Learning+new+things...." alt="Typing SVG" align="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=500&color=94e2d5&width=300&lines=Currently+diving+into..." alt="Typing SVG" align="middle">
 </p>
 
 <table border="0">
