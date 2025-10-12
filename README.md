@@ -152,5 +152,5 @@ I’m <strong>Gregory Ozaki</strong>, 20 years old, an <strong>Information Syste
 
 <br>
 <br>
-<div align="right">Created by <a href="https://github.com/gregoryozaki">coeozak</a>.</div>
+<div align="right">Created by <a href="https://github.com/gregoryozaki">gregoryozaki</a>.</div>
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19eeb&height=120&section=footer"/> -->
