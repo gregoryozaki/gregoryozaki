@@ -29,10 +29,11 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
     </td>
     <td>
       <ul>
-        <li>Software Testing and QA (Quality Assurance)</li>
-        <li>Artificial Intelligence and Machine Learning</li>
-        <li>Operational Research</li>
-        <li>Web Development and Programming</li>
+        <li>Machine Learning and Computer Vision</li>
+        <li>Full Stack Web Development</li>
+        <li>Advanced Programming Topics</li>
+        <li>Computer Networks</li>
+        <li>Systems Quality, Security & Auditing</li>
       </ul>
     </td>
   </tr>
