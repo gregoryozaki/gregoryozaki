@@ -7,7 +7,12 @@
 # [About Me](https://github.com/gregoryozaki/gregoryozaki/blob/main/utils/about-me.md)
 
 <div>
-I’m <strong>Gregory Ozaki</strong>, 20 years old, an <strong>Information Systems</strong> student at <strong>UFAM (ICET/Itacoatiara-AM)</strong> and a <strong>Computer Maintenance and Support Technician</strong> from IFAM. I have experience in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>, and have published a scientific paper on algorithmic fairness. I also have background in <strong>Front-end</strong>, <strong>UI/UX Design</strong>, <strong>and QA</strong>, with strong interests in <strong>AI Robotics</strong>, <strong>Data Science</strong>, and <strong>Linux/Bash</strong>. I am driven by challenges, innovation, and the pursuit of contributing to technological solutions that positively impact society.
+<p>
+I am <strong>Gregory Ozaki</strong>, an <strong>Information Systems student at UFAM (ICET/Itacoatiara)</strong> and a 
+<strong>Computer Maintenance and Support Technician from IFAM</strong>. I work as a <strong>researcher and developer</strong> at 
+<strong>NuPeC</strong> and <strong>LOGAR</strong>, with interests in <strong>Machine Learning, Computer Vision, Ethical AI, Data Science, and Robotics</strong>. 
+My goal is to apply <strong>AI, optimization, and data analysis</strong> to build technological solutions with positive social impact.
+</p>
 </div>
 
 ---
