@@ -32,7 +32,6 @@ During my academic journey, I have developed projects in <strong>applied AI, web
 
 <ul>
 <li>systems using <strong>Computer Vision and NLP</strong></li>
-<li>mobile applications for <strong>driver fatigue detection using Machine Learning</strong></li>
 <li>digital platforms focused on <strong>public health and emotional well-being</strong></li>
 <li>research on <strong>bias in Deep Learning models</strong></li>
 </ul>
@@ -46,7 +45,7 @@ I also have experience in <strong>Full Stack development</strong>, <strong>UI/UX
 </p>
 
 <p>
-My technical stack includes languages such as <strong>Python, R, C/C++, JavaScript, TypeScript, Java, Kotlin, and SQL</strong>, 
+My technical stack includes languages such as <strong>Python, R, C/C++, JavaScript and SQL</strong>, 
 along with tools and frameworks for <strong>Machine Learning, Data Science, web development, and cloud technologies</strong>.
 </p>
 
@@ -94,7 +93,6 @@ Durante minha formação acadêmica, desenvolvi projetos nas áreas de
 
 <ul>
 <li>sistemas utilizando <strong>Visão Computacional e Processamento de Linguagem Natural (NLP)</strong></li>
-<li>aplicações móveis para <strong>detecção de fadiga em motoristas utilizando Machine Learning</strong></li>
 <li>plataformas digitais voltadas para <strong>saúde pública e bem-estar emocional</strong></li>
 <li>pesquisas sobre <strong>viés em modelos de Deep Learning</strong></li>
 </ul>
@@ -109,7 +107,7 @@ Também possuo experiência em <strong>desenvolvimento Full Stack</strong>, <str
 
 <p>
 Minha stack técnica inclui linguagens como 
-<strong>Python, R, C/C++, JavaScript, TypeScript, Java, Kotlin e SQL</strong>, 
+<strong>Python, R, C/C++, JavaScript e SQL</strong>, 
 além de ferramentas e frameworks voltados para 
 <strong>Machine Learning, Ciência de Dados, desenvolvimento web e tecnologias em nuvem</strong>.
 </p>
