@@ -145,7 +145,7 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
 <p align="left">
    <a href="mailto:gabrielgregory38@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=c19eeb" alt="Email"></a>
   <a href="https://www.linkedin.com/in/gregory-ozaki"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c19eeb" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/coeozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=c19eeb" alt="Instagram"></a>
+  <a href="https://www.instagram.com/gregoryozak/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=c19eeb" alt="Instagram"></a>
 </p>
 
 <picture>
