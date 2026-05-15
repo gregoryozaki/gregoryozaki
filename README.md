@@ -42,10 +42,27 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gregoryozaki&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" alt="Gregory Ozaki GitHub Stats" width="48%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gregoryozaki&theme=catppuccin_mocha&hide_border=true" alt="Gregory Ozaki GitHub Streak" width="51%">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoryozaki&theme=github_dark" width="100%" alt="Gregory Ozaki GitHub Profile Details"/>
+
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryozaki&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Gregory Ozaki Top Languages" width="50%">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gregoryozaki&theme=github_dark" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gregoryozaki&theme=github_dark" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gregoryozaki&theme=github_dark" width="32%" alt="GitHub Stats"/>
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gregoryozaki&theme=github_dark&utcOffset=-4" width="32%" alt="Productive Time"/>
+  <img src="https://streak-stats.demolab.com?user=gregoryozaki&theme=github-dark-blue&hide_border=true" width="32%" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gregoryozaki&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" width="32%" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gregoryozaki&theme=github-compact&hide_border=true" width="100%" alt="Gregory Ozaki GitHub Activity Graph"/>
 </div>
 
 ---
@@ -164,7 +181,12 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
   />
 </picture>
 
+
 <br>
 <br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gregoryozaki&label=Profile%20views&color=94e2d5&style=for-the-badge" alt="Profile views"/>
+</p>
+
 <div align="right">Created by <a href="https://github.com/gregoryozaki">gregoryozaki</a>.</div>
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19eeb&height=120&section=footer"/> -->
