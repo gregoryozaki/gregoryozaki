@@ -85,7 +85,6 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-          <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
         </div>
       </td>
       <td valign="top" width="50%">
@@ -98,7 +97,6 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-          <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie">
         </div>
       </td>
     </tr>
@@ -108,7 +106,6 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
         <div align="left">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
         </div>
       </td>
       <td valign="top" width="50%">
@@ -118,9 +115,6 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
           <img src="https://img.shields.io/badge/Design%20Thinking-ff4081?style=for-the-badge&logo=target&logoColor=white">
           <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
           <img src="https://img.shields.io/badge/HCI-F4D03F?style=for-the-badge&logo=usabilityhub&logoColor=black" alt="HCI">
-          <img src="https://img.shields.io/badge/Inspections-1ABC9C?style=for-the-badge" alt="Inspections">
-          <img src="https://img.shields.io/badge/Usability%20Testing-FF7300?style=for-the-badge&logo=usabilityhub&logoColor=white" alt="Usability Testing">
-          <img src="https://img.shields.io/badge/MAC-6272A4?style=for-the-badge" alt="MAC (Communicability)">
         </div>
       </td>
     </tr>
@@ -134,15 +128,9 @@ My goal is to apply <strong>AI, optimization, and data analysis</strong> to buil
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
           <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white">
           <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
           <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-          <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white">
-          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
           <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
           <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         </div>
