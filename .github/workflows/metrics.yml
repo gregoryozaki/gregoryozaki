@@ -1,8 +1,11 @@
-name: Update GitHub Metrics
+name: Update Profile Metrics
 
 on:
   schedule:
-    - cron: "17 5,17 * * *"
+    # Executa a cada 6 horas.
+    - cron: "17 */6 * * *"
+
+  # Permite executar manualmente pela aba Actions.
   workflow_dispatch:
 
 permissions:
@@ -13,18 +16,25 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
+  update-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
 
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Prepare output directories
-        run: mkdir -p metrics profile-summary-card-output/github_dark
-
-      - name: Generate summary cards
+      # ---------------------------------------------------------
+      # CARDS PRINCIPAIS
+      #
+      # Gera:
+      # - detalhes do perfil;
+      # - linguagens por repositório;
+      # - linguagens por commits;
+      # - estatísticas;
+      # - horário produtivo.
+      # ---------------------------------------------------------
+      - name: Generate profile summary cards
         continue-on-error: true
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -33,57 +43,92 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: "-4"
-          EXCLUDE: "Jupyter Notebook"
-          AUTO_PUSH: false
 
+          # Evita que arquivos .ipynb dominem o gráfico.
+          EXCLUDE: "Jupyter Notebook"
+
+          # Faz commit dos SVGs gerados.
+          AUTO_PUSH: true
+
+          # Gera apenas o tema utilizado no README.
+          THEME: github_dark
+
+          # Sem animação para manter visual mais formal.
+          ANIMATION: ""
+
+      # ---------------------------------------------------------
+      # CALENDÁRIO ANUAL E SEQUÊNCIA DE DIAS
+      #
+      # Mostra:
+      # - calendário anual;
+      # - sequência atual;
+      # - média de commits por dia;
+      # - total de contribuições no período.
+      # ---------------------------------------------------------
+      - name: Generate contribution calendar and streak
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+
+          filename: metrics-isocalendar.svg
+          base: ""
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          config_timezone: America/Manaus
+
+      # ---------------------------------------------------------
+      # PULL REQUESTS E ISSUES
+      #
+      # Mostra PRs e issues criados pelo usuário.
+      # ---------------------------------------------------------
       - name: Generate pull request and issue metrics
         continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
-          filename: metrics/prs.svg
+
+          filename: metrics-followup.svg
           base: ""
+
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_followup_archived: no
-          output_action: none
+
           config_timezone: America/Manaus
 
-      - name: Generate current-year contribution calendar
+      # ---------------------------------------------------------
+      # HÁBITOS E GRÁFICOS DE ATIVIDADE
+      #
+      # Mostra:
+      # - commits por horário;
+      # - commits por dia da semana;
+      # - atividade recente.
+      # ---------------------------------------------------------
+      - name: Generate coding activity charts
         continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
-          filename: metrics/calendar.svg
+
+          filename: metrics-habits.svg
           base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          output_action: none
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_trim: yes
+
+          # Desativa a repetição das linguagens neste gráfico.
+          plugin_habits_languages_limit: 0
+
           config_timezone: America/Manaus
-
-      - name: Generate streak and activity graph
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-        run: python scripts/generate_github_activity.py
-
-      - name: Commit updated metrics
-        if: always()
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add profile-summary-card-output metrics
-
-          if git diff --cached --quiet; then
-            echo "No metric changes to commit."
-            exit 0
-          fi
-
-          git commit -m "chore: update GitHub profile metrics"
-          git pull --rebase origin main
-          git push origin main
