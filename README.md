@@ -8,14 +8,14 @@
 # [About Me](./utils/about-me.md)
 
 <p>
-  I am <strong>Gregory Ozaki</strong>, an
-  <strong>Information Systems student at UFAM (ICET/Itacoatiara)</strong>
-  and a <strong>Computer Maintenance and Support Technician from IFAM</strong>.
-  I work as a <strong>researcher and developer</strong> at
-  <strong>NuPeC</strong> and <strong>LOGAR</strong>, with interests in
-  <strong>Machine Learning, Computer Vision, Ethical AI, Data Science, and Robotics</strong>.
-  My goal is to apply <strong>AI, optimization, and data analysis</strong>
-  to build technological solutions with positive social impact.
+  I am <strong>Gregory Ozaki</strong>, an Information Systems student at
+  <strong>UFAM — ICET/Itacoatiara</strong> and a certified
+  <strong>Computer Maintenance and Support Technician</strong> from IFAM.
+  I work as a researcher and developer at <strong>NuPeC</strong> and
+  <strong>LOGAR</strong>, focusing on Machine Learning, Computer Vision,
+  Ethical AI, Data Science, and Robotics. My goal is to apply artificial
+  intelligence, optimization, and data analysis to develop practical
+  technological solutions with positive social impact.
 </p>
 
 ---
@@ -76,13 +76,8 @@
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="49%"
+    width="100%"
     alt="Productive time"
-  >
-  <img
-    src="./metrics/streak.svg"
-    width="49%"
-    alt="Current and longest contribution streak"
   >
 </p>
 
@@ -90,7 +85,7 @@
 
 <p align="center">
   <img
-    src="./metrics/prs.svg"
+    src="./metrics-followup.svg"
     width="100%"
     alt="Pull request and issue statistics"
   >
@@ -100,17 +95,17 @@
 
 <p align="center">
   <img
-    src="./metrics/activity.svg"
+    src="./github-metrics.svg"
     width="100%"
-    alt="Contribution activity during the last 90 days"
+    alt="GitHub contribution activity"
   >
 </p>
 
 <p align="center">
   <img
-    src="./metrics/calendar.svg"
+    src="./metrics-isocalendar.svg"
     width="100%"
-    alt="Current-year contribution calendar"
+    alt="GitHub contribution calendar"
   >
 </p>
 
