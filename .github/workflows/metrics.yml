@@ -3,13 +3,10 @@ name: Update Profile Metrics
 on:
   schedule:
     # Executa a cada 6 horas.
-    # Os horários do cron são interpretados em UTC.
     - cron: "17 */6 * * *"
 
   # Permite executar manualmente pela aba Actions.
   workflow_dispatch:
-
-  # Executa quando este arquivo for alterado.
   push:
     branches:
       - main
@@ -34,9 +31,7 @@ jobs:
         with:
           ref: main
 
-      # ---------------------------------------------------------
       # CARDS PRINCIPAIS
-      # ---------------------------------------------------------
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -55,15 +50,11 @@ jobs:
           # Gera somente o tema utilizado no README.
           THEME: github_dark
 
-          # Sem animações.
           ANIMATION: ""
 
-      # ---------------------------------------------------------
       # CALENDÁRIO ANUAL
-      #
       # Gera:
       # metrics/calendar.svg
-      # ---------------------------------------------------------
       - name: Generate contribution calendar
         if: ${{ always() }}
         uses: lowlighter/metrics@latest
@@ -82,12 +73,9 @@ jobs:
 
           config_timezone: America/Manaus
 
-      # ---------------------------------------------------------
       # PULL REQUESTS E ISSUES
-      #
       # Gera:
       # metrics/prs.svg
-      # ---------------------------------------------------------
       - name: Generate pull request and issue metrics
         if: ${{ always() }}
         uses: lowlighter/metrics@latest
@@ -105,14 +93,10 @@ jobs:
 
           config_timezone: America/Manaus
 
-      # ---------------------------------------------------------
       # HÁBITOS E ATIVIDADE
-      #
       # Gera:
       # metrics/activity.svg
-      #
       # O plugin Habits trabalha com no máximo 30 dias.
-      # ---------------------------------------------------------
       - name: Generate coding activity charts
         if: ${{ always() }}
         uses: lowlighter/metrics@latest
@@ -138,15 +122,11 @@ jobs:
 
           config_timezone: America/Manaus
 
-  # -------------------------------------------------------------
   # STREAK SEPARADO
-  #
   # É executado depois dos outros cards para evitar conflitos
   # entre commits automáticos.
-  #
   # Gera:
   # metrics/streak.svg
-  # -------------------------------------------------------------
   update-streak:
     needs: update-metrics
 
