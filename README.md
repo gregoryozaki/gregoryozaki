@@ -12,8 +12,7 @@
   <strong>UFAM — ICET/Itacoatiara</strong> and a certified
   <strong>Computer Maintenance and Support Technician</strong> from IFAM.
   I work as a researcher and developer at <strong>NuPeC</strong> and
-  <strong>LOGAR</strong>, focusing on Machine Learning, Computer Vision,
-  Ethical AI, Data Science, and Robotics. My goal is to apply artificial
+  <strong>LOGAR</strong>, focusing on Machine Learning, Computer Vision and Data Science. My goal is to apply artificial
   intelligence, optimization, and data analysis to develop practical
   technological solutions with positive social impact.
 </p>
@@ -33,11 +32,10 @@
     </td>
     <td>
       <ul>
-        <li>Machine Learning and Computer Vision</li>
-        <li>Full-Stack Web Development</li>
-        <li>Advanced Programming Topics</li>
-        <li>Computer Networks</li>
-        <li>Systems Quality, Security, and Auditing</li>
+        <li>Machine Learning, Computer Vision and NLP</li>
+        <li>Full Stack Web Development</li>
+        <li>Geospatial Data and Ethical AI</li>
+        <li>Embedded AI and DevOps (learning)</li>
       </ul>
     </td>
   </tr>
